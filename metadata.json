@@ -1,0 +1,5 @@
+{
+  "name": "Notify Hub",
+  "description": "A powerful reminder application that sends notifications via Telegram, email, and web push. Easily create, manage, and schedule reminders across your favorite platforms.",
+  "requestFramePermissions": []
+}
